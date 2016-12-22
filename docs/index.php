@@ -13,7 +13,6 @@
 				 <li><a href='/docs/journey.php'><span>journey</span></a></li>
 			   <li><a href='/docs/'><span>Docs</span></a></li>
 			   <li><a href='https://github.com/16abhimasani/Cycle3D' target="_blank"><span>Repo</span></a></li>
-			   <li><a href='http://blog.cycle3d.xyz' target="_blank"><span>Blog</span></a></li>
 			   <li class='last'><a href='/docs/about.php'><span>About</span></a></li>
 				</ul>
 			</div>
